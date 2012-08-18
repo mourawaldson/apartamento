@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elemento>
+	<janela id="janela1">Aberta</janela>
+	<janela id="janela2">Fechada</janela>
+	<janela id="janela3">Travada</janela>
+	<janela id="janela4">Aberta</janela>
+	<janela id="janela5">Travada</janela>
+	<janela id="janela6">Fechada</janela>
+	<janela id="janela7">Fechada</janela>
+	<janela id="janela8">Aberta</janela>
+	<porta id="porta1">Fechada</porta>
+	<porta id="porta2">Travada</porta>
+</elemento>

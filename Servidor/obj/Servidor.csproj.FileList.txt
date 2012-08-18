@@ -1,0 +1,16 @@
+bin\Debug\Servidor.exe
+bin\Debug\Servidor.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Servidor.FrmApartamento.resources
+obj\Debug\Servidor.Properties.Resources.resources
+obj\Debug\Servidor.csproj.GenerateResource.Cache
+obj\Debug\Servidor.exe
+obj\Debug\Servidor.pdb
+bin\Release\Servidor.exe
+bin\Release\Servidor.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Servidor.FrmApartamento.resources
+obj\Release\Servidor.Properties.Resources.resources
+obj\Release\Servidor.csproj.GenerateResource.Cache
+obj\Release\Servidor.exe
+obj\Release\Servidor.pdb
